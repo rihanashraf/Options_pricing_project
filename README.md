@@ -33,14 +33,18 @@ cd quant-finance-toolkit
 
 python -m venv quant_env
 source quant_env/bin/activate  # Linux/Mac
-# or
+
+or 
+
 quant_env\Scripts\activate     # Windows
 
 3.Install dependencies:
 pip install -r requirements.txt
 
 
+
 Theory Section
+
 Detailed mathematical background and implementation notes can be found in docs/theory.md.
 
 
